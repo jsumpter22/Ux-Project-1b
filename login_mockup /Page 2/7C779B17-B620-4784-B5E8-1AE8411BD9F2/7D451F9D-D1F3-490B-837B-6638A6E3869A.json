@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7D451F9D-D1F3-490B-837B-6638A6E3869A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11973D67-CBAE-40E3-90EE-6613F5B29735",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E525DE3-C619-4312-A606-7DD305CA7EA6",
+    "height": 103,
+    "width": 277,
+    "x": 33,
+    "y": 247
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "textbox/Inputlable",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "532C87D2-B64B-43EF-B10C-76C6A9951671",
+      "overrideName": "020E25F9-9284-4C47-A5AA-0D4A6869C49B_stringValue",
+      "value": "Phone Number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9AE2601-395C-4D27-B011-B2FE24992007",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B9DA24BF-2D12-4173-9322-B10F697B4456",
+  "verticalSpacing": 0
+}

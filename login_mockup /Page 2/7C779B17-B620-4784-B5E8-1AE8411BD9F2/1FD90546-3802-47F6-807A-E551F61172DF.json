@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1FD90546-3802-47F6-807A-E551F61172DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F70AF368-9DA8-4E10-8CA9-5406B31687DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4B8B94F-ECD1-4E96-9EF5-7C107211CD22",
+    "height": 44,
+    "width": 86,
+    "x": 34,
+    "y": 589
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0AF5327-9F19-4133-BED0-84D73DDE431B",
+      "overrideName": "58133A7D-B84F-47E3-8087-5224959D1E4B_stringValue",
+      "value": "Back"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "508EAF2A-BC4C-4659-88EC-EA7E99A33ECF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "99D6D4F7-D983-4225-9619-B4C950D18F00",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

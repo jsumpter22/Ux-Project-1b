@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CCB1DA60-2005-4D8A-A51B-57914526D1A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2529DCA6-CC0D-49DB-AD53-0D82379F0FB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3FEFC708-404A-40BC-B40D-D2357DE9E058",
+    "height": 31,
+    "width": 161,
+    "x": 132,
+    "y": 135
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Screen_head",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FB86BC5-55CE-46FA-BB99-991B8D2249E3",
+      "overrideName": "18044038-12BE-4C07-AB6E-79BFB04DA553_stringValue",
+      "value": "|   Username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15309D18-9042-479B-8D19-8CAB838A9251",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "343A8155-4F26-49C5-AC41-FA98F220F9AC",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "83F3E6C2-AA43-4B38-9C04-1F4468A2EEE1",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "18B3CF68-8BC2-4C80-8330-F81EC6A52A43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C49C9348-2517-473C-8C7B-85018C3C9460",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C1CC951-079B-4DD9-8D86-B68E31E2B862",
+    "height": 27,
+    "width": 161,
+    "x": 37,
+    "y": 142
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Screen_head",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0BC324C5-AA9F-4D5B-9DD5-17E9A80533AC",
+      "overrideName": "18044038-12BE-4C07-AB6E-79BFB04DA553_stringValue",
+      "value": "Forgot Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC38A54C-164C-434A-8746-F92AEDC6BCB3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "343A8155-4F26-49C5-AC41-FA98F220F9AC",
+  "verticalSpacing": 0
+}

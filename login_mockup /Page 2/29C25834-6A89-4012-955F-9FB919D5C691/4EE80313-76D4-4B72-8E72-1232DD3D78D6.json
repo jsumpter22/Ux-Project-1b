@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4EE80313-76D4-4B72-8E72-1232DD3D78D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6ED1782-9DD3-4525-A82F-0F3E2A2D8BC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E552304-18BB-4B9E-B9E7-910B998FA34C",
+    "height": 50,
+    "width": 285,
+    "x": 24,
+    "y": 371
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forgot box",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29E1B493-DEB8-4EF3-8AB6-A16554214165",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C55D77DA-5658-4CFD-BFAE-B75AD911EC1F",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

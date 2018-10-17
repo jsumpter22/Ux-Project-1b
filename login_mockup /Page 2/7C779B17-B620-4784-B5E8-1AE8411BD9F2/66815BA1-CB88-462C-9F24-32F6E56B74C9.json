@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "66815BA1-CB88-462C-9F24-32F6E56B74C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84F78309-153D-4EB2-AC31-32404184329E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD03E5EF-90E0-489F-A0E7-25761BDFCC2B",
+    "height": 103,
+    "width": 277,
+    "x": 33,
+    "y": 182
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "textbox/Inputlable",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFE6E720-0B7B-4FEF-AF9B-75CA8D6EE45B",
+      "overrideName": "020E25F9-9284-4C47-A5AA-0D4A6869C49B_stringValue",
+      "value": "Username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62981C0A-BD6B-49F4-BC33-B7DC81B5A6FB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B9DA24BF-2D12-4173-9322-B10F697B4456",
+  "verticalSpacing": 0
+}

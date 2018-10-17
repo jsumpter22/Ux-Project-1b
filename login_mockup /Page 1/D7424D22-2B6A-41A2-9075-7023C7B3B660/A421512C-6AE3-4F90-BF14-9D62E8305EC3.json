@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A421512C-6AE3-4F90-BF14-9D62E8305EC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B54AB204-6602-4806-BDD9-F4B3B626C457",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45F38EE1-EF80-4AC6-9B7E-ACDB1F8DD1FE",
+    "height": 52,
+    "width": 161,
+    "x": 108,
+    "y": 125
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Screen_head",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27BDB2BF-EFB7-46FB-A943-DEB546A98311",
+      "overrideName": "C5767382-15AA-4E50-B923-D3DAC42F3E7A_stringValue",
+      "value": "|   Sign In"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D7D16B8-7E3D-4DF4-878F-DA8AA27916C4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4D045183-5880-449D-9A4D-BC76777BB55F",
+  "verticalSpacing": 0
+}

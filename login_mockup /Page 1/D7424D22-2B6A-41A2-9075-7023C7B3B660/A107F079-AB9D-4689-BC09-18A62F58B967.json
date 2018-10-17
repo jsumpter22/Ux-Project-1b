@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A107F079-AB9D-4689-BC09-18A62F58B967",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 244,
+    "x": 37,
+    "y": 185
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "New Input box",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CA73745-FDF5-4E11-8107-823ADA217FDA",
+      "overrideName": "2E91309E-DE42-4D4F-A9FE-8E426B1EB619_stringValue",
+      "value": "Enter your username "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60ADFAF8-755D-44C4-926C-B01BA8F06429",
+      "overrideName": "6A76D66B-17CA-478F-918B-F202DE7D9B74_stringValue",
+      "value": "USERNAME "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DC79E1D7-0D75-446F-9306-00032849F7BC",
+  "verticalSpacing": 0
+}

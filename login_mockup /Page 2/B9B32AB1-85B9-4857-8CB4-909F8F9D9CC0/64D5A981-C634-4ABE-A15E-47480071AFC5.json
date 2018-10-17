@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "64D5A981-C634-4ABE-A15E-47480071AFC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A0E3F88-7349-432A-B054-642C1289D57F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B586D448-9951-45BD-B2E6-0B0CDD6523AB",
+    "height": 103,
+    "width": 277,
+    "x": 33,
+    "y": 178
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "textbox/Inputlable",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFE6E720-0B7B-4FEF-AF9B-75CA8D6EE45B",
+      "overrideName": "020E25F9-9284-4C47-A5AA-0D4A6869C49B_stringValue",
+      "value": "code"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1FDCEB2-FB17-4D88-8483-DAF45FDD42CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B9DA24BF-2D12-4173-9322-B10F697B4456",
+  "verticalSpacing": 0
+}
